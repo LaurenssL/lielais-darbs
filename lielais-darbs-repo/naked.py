@@ -8,6 +8,7 @@ import logging.config
 import yaml
 import mysql.connector
 
+#komentars prieks praktiskas dalas 1.uzd - labojums repo
 #date 
 from datetime import datetime
 #to work with config files
